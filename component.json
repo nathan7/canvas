@@ -1,0 +1,14 @@
+{
+  "name": "canvas",
+  "repo": "nathan7/canvas",
+  "description": "small wrapper to use canvas across environments easily",
+  "version": "1.0.0",
+  "keywords": [
+    "canvas",
+    "browser"
+  ],
+  "license": "MIT",
+  "scripts": [
+    "index.js"
+  ]
+}
