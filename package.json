@@ -1,0 +1,26 @@
+{
+  "name": "canvas",
+  "version": "1.0.0",
+  "description": "A small wrapper to use canvas across environments easily.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nathan7/canvas.git"
+  },
+  "keywords": [
+    "canvas",
+    "browser"
+  ],
+  "author": "Nathan Zadoks",
+  "license": "MIT",
+  "readmeFilename": "Readme.md",
+  "bugs": {
+    "url": "https://github.com/nathan7/canvas/issues"
+  },
+  "dependencies": {
+    "canvas": "~1.0.2"
+  },
+  "browser": {
+    "canvas": false
+  }
+}

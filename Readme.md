@@ -2,9 +2,13 @@
 # canvas 
 
   A small wrapper to use canvas across environments easily.
-  Mimics the node-canvas API.
+  Uses [node-canvas](https://npmjs.org/canvas) on the server and mimics it in the browser.
 
 ## Installation
+
+    $ npm install nathan7/canvas
+
+  or
 
     $ component install nathan7/canvas
 
